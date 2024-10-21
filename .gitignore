@@ -1,0 +1,10 @@
+.venv
+.idea
+test
+train_labels.csv
+train
+.ipynb_checkpoints
+logs
+test_preprocessed
+train_preprocessed
+keras_tuner
