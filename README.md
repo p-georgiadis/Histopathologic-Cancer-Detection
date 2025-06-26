@@ -1,5 +1,5 @@
 # Histopathologic Cancer Detection with Custom CNN
-
+## Author: Panagiotis Georgiadis
 ## Project Overview
 
 This project focuses on developing a **custom Convolutional Neural Network (CNN)** model to detect metastatic cancer in histopathologic images. The goal is to create a binary image classification model that determines whether the center 32x32px region of a histopathologic patch contains cancerous tissue. The project explores the effectiveness of a custom-built CNN compared to pre-trained models like ResNet and EfficientNet.
